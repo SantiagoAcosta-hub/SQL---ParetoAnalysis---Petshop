@@ -1,0 +1,4 @@
+--Conclusions
+-- Now that we defined which group of our customers represent the most value to the company we could 
+-- Create a VIP loyalty program / Offer exclusive discounts or early access Assign account managers or Send personalized marketing
+-- Why? Because losing just a few of them could massively hurt revenue.
